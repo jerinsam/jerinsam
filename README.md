@@ -5,16 +5,17 @@ My name is **Jerin Sam** and I've 12 years of experience as a **Data Engineering
 
 ## 💼 Expertise
 - **Data Engineering & Architecture**
+  - SQL Server, PostgreSQL
   - Spark, Databricks, Kafka, ksqlDB
   - Delta Lake 
-- **Database & Query Engines**
-  - SQL Server, PostgreSQL 
 - **Big Data & Cloud Technologies**
-  - Azure Data Lake Storage (ADLS), Azure Data Factory (ADF), Azure Synapse Analytics, Azure SQL
+  - Azure Synapse Analytics, Azure SQL, Azure Data Lake Storage (ADLS), Azure Data Factory (ADF)
 - **On-Prem Data Technologies**
   - SQL Server Integration Services (SSIS), Airflow, DBT
 - **Visualization Technologies**
   - Power BI
+- **Programming Languages**
+  - Python
 - **Customer Engagement & Project Management**
   - Collaborating with business leaders, technical teams, and customers to ensure alignment on project goals.
   - Engaging customers to understand their challenges and propose tailored data solutions.
@@ -24,7 +25,7 @@ My name is **Jerin Sam** and I've 12 years of experience as a **Data Engineering
 ## 🚀 Current Work
 - Building a **Data Quality Solution** for **batch & streaming data**
 - Implementing an **Analytical Framework** to enhance data insights and decision-making processes
-- Enhancing **Spark-Hive Metastore integration** with PostgreSQL
+- Enhancing **Spark Hive Metastore Integration** with PostgreSQL
 - Developing a **Lakehouse Interoperability Layer** to support multiple lakehouses (Delta, Iceberg, Hudi)
 
 ## 📚 Learning & Interests
