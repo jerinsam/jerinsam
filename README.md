@@ -38,6 +38,7 @@ My name is **Jerin Sam** and I've 12 years of experience as a **Data Engineering
 ## 💡 Get in Touch
 📧 Email: jerinjsam@gmail.com   
 💼 LinkedIn: https://www.linkedin.com/in/jerinjsam
+📧 Email: jerinjsam@gmail.com   
 🔗 GitHub: https://github.com/jerinsam
 
 ---
